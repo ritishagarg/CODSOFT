@@ -3,4 +3,4 @@ All the Artificial Intelligence tasks and projects done during the internship wi
 
 Tasks done:-
 ## 1. Rule-Based Chatbot 
-Developed a Rule-Based Chatbot using NLTK (Natural Language Toolkit) which deals with NLP(Natural Language Processing) applications, one of the main applications being Chatbot development. 
+Developed a Rule-Based Chatbot using NLTK (Natural Language Toolkit) which deals with NLP(Natural Language Processing) applications, one of the primary applications being Chatbot development.
