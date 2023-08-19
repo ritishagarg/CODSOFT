@@ -7,4 +7,5 @@ Developed a Rule-Based Chatbot using NLTK (Natural Language Toolkit) which deals
 
 ## 2. Book Recommender System
 A recommendation system built using collaborative filtering methods like SVD(Singular Value Decomposition) that recommends books to users based on their preferences.
+
 Dataset Link- http://www2.informatik.uni-freiburg.de/~cziegler/BX/
