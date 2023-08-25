@@ -9,3 +9,8 @@ Developed a Rule-Based Chatbot using NLTK (Natural Language Toolkit) which deals
 A recommendation system built using collaborative filtering methods like SVD(Singular Value Decomposition) that recommends books to users based on their preferences.
 
 Dataset Link- http://www2.informatik.uni-freiburg.de/~cziegler/BX/
+
+## 3. Image Caption Generator
+Image Caption Generator that uses VGG16 (CNN) as the encoder and RNN (Recurrent neural network) as the decoder provides  relevant captions for images. Feature extraction is done using VGG16 and RNN is used as language model to provide captions.
+
+Dataset used- https://www.kaggle.com/datasets/adityajn105/flickr8k
